@@ -1,7 +1,7 @@
 # Hi, i'm João Ricardo
 
 <h2 align="center"> 
-Currently, i work as a Full-Stack Developer at Rede D'Or
+Currently, I work as a Full-Stack Developer at Rede D'Or
 </h2 >
 <p align="center">
 - Software develop, tech enthusiastic, and in love with inovation 🚀.
