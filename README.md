@@ -5,6 +5,8 @@ Currently, I work as a Full-Stack Developer at Rede D'Or
 </h2 >
 <p align="center">
 - Software develop, tech enthusiastic, and in love with inovation 🚀.
+</p>
+<p align="center">
 - Work with agile methodologies and the best techs in the community.
 </p>
 
