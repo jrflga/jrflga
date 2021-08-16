@@ -25,7 +25,7 @@ Currently, I work as a Full-Stack Developer at Rede D'Or
 ---
 
 <p align="center">
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jrflga&show_icons=true&hide_border=true&theme=radical" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jrflga&show_icons=true&theme=radical&hide_border=true" />
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrflga&show_icons=true&hide_border=true&theme=radical" />
 
 </p>
