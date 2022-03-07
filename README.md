@@ -8,8 +8,3 @@ Hi, I'm João Ricardo!
 ```
 
 ---
-
-<p align="center">
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jrflga&show_icons=true&theme=radical&hide_border=true" />
-
-</p>
