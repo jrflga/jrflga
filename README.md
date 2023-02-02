@@ -1,10 +1,10 @@
 ```diff
 Hi, I'm João Ricardo!
 
-@@I'm a software engineer at Zoop@@.
+@@SWE at Will Bank@@.
 - 22° 57 '8.42" S 43° 12' 41.21" W 🇧🇷.
-+ 23 years old.
-! 📚 I like tech, FP and french fries.
++ 25 years old.
+! 📚 I like bleeding-edge tech, FP and french fries.
 ```
 
 ---
